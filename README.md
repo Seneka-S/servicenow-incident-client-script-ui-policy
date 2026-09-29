@@ -1,7 +1,7 @@
 # Implement Client Script & UI Policy (Incident)
 
 SkillWallet Group Project: ServiceNow System Administrator  
-**Student:** Bharath K (`bharath94429@gmail.com`)  
+**Student:** Seneka S (`senekaselvamani2007@gmail.com`)  
 **Instance:** `https://dev300679.service-now.com`  
 
 ---
